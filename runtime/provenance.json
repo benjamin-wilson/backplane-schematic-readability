@@ -1,0 +1,14 @@
+{
+  "upstream": "https://github.com/copperheadhq/copperhead",
+  "commit": "4d0cc3f6459608ee43ead4adf97e4ff453752592",
+  "license": "Apache-2.0",
+  "vendor_sha256": {
+    "vendor/copperhead/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "vendor/copperhead/NOTICE": "81e029eb8218520bda981f38524b1ab510e4ffc9974fb4c4f55640048a7729b9",
+    "vendor/copperhead/config.ts": "6e49219428ba8dacb0950e365e1c52027aacbe17a2e8ca760af25d5fdeb61459",
+    "vendor/copperhead/kicad/legibility.ts": "8b2607f81594f5f1373a14e5f0299edf49275f2806e2e57bb1cc364324e1cf0c",
+    "vendor/copperhead/kicad/score.ts": "f1496e55b38df1190d0a46ce9346f1b3ff7ada2ddb78f75ecc8306d575c3dddb",
+    "vendor/copperhead/kicad/sexp.ts": "c03773396d2cbea37b6b145185f28f08dafc2a76eb2d7e4baea29525b067c16b",
+    "vendor/copperhead/kicad/strokefont.ts": "6976354a0853734e9b1a95e978fe37578d542ac927fe3960f88fae03e583d5c4"
+  }
+}

@@ -1,0 +1,8 @@
+Backplane Schematic Readability
+Copyright 2026 Benjamin Wilson
+
+Includes read-only Copperhead modules, Copyright 2026 Chouhan Industries.
+https://github.com/copperheadhq/copperhead
+Apache License 2.0. Original LICENSE and NOTICE are preserved in runtime/vendor/copperhead/.
+The portable launcher, strict checker wrapper, installer and authoring instructions
+are additions; the vendored modules are unmodified.
